@@ -1,6 +1,6 @@
-# Yongbeom Jang 👋
+# Yongbeom Jang
 
-## ▎🛠 Tech Stacks
+## ▎Tech Stacks
 <!--html, css, javascript, jquery, java, jsp, mysql-->
 <!--
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
