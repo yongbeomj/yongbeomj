@@ -1,4 +1,5 @@
 ![Yongbeom Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongbeomj&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongbeomj&layout=compact&theme=algolia)
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyb0516)](https://solved.ac/jyb0516/) -->
 
