@@ -43,6 +43,8 @@
 - [ZOOZOO](https://github.com/yongbeomj/Spring_ZooZoo) - 동물 커뮤니티 사이트 (Java/Spring boot 기반 CRUD 프로젝트)
 - [YOUDOBU](https://github.com/yongbeomj/youtube-jsp) - 영상 관리 플랫폼 (JSP 프로젝트)
 
+※ 프로젝트명 클릭 시 해당 프로젝트 Github Repository로 이동합니다.
+
 ### Github Stats
 ![Yongbeom Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongbeomj&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongbeomj&layout=compact&theme=algolia)
