@@ -40,7 +40,7 @@
 
 ### Projects
 - [PREORDER](https://github.com/yongbeomj/pre-order) - 예약 구매 서비스 (Java/Spring boot 기반 API 개발 프로젝트)
-- [ZOOZOO](https://github.com/yongbeomj/Spring_ZooZoo) - 동물 커뮤니티 사이트 (Java/Spring boot 기반 CRUD 프로젝트)
+- [ZOOZOO](https://github.com/yongbeomj/Spring_ZooZoo) - 동물 커뮤니티 사이트 (Java/Spring boot 프로젝트)
 - [YOUDOBU](https://github.com/yongbeomj/youtube-jsp) - 영상 관리 플랫폼 (JSP 프로젝트)
 
 ※ 프로젝트명 클릭 시 해당 프로젝트 Github Repository로 이동합니다.
